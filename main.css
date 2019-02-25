@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.button{
+  width: 100px;
+  height: 100px;
+  font-size: 70px;
+  margin: 10px;
+  background: linear-gradient(45deg, #ffffff 0%,#ffffff 100%);
+  border: none;
+  color: #bd26f2
+}
+
+.textvieuw{
+  margin-top: 400px;
+  margin-bottom: 50px;
+  margin-left: 255px;
+  width: 463px;
+  height: 100px;
+  font-size: 70px;
+  border: none;
+}
+
+.tablet {
+  margin: 0 auto;
+}
+
+body{
+  height: 100%;
+  background: linear-gradient(90deg, #fe35ec 0%,#7a17f8 100%);
+}
