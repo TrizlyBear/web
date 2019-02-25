@@ -16,8 +16,8 @@
 .textvieuw{
   margin-top: 100px;
   margin-bottom: 20px;
-  margin-left: 405px;
-  width: 170px;
+  margin-left: 20px;
+  width: 173px;
   height: 40px;
   font-size: 30px;
   border: none;
@@ -25,10 +25,13 @@
 }
 
 .tablet {
-  margin: 0 auto;
+  margin-left: 20px;
+  margin-bottom: 20px
 }
 
-body{
-  height: 100%;
+.bg{
+  width: 20%;
+  height: 456px;
+
   background: linear-gradient(90deg, #fe35ec 0%,#7a17f8 100%);
 }
