@@ -4,23 +4,24 @@
 }
 
 .button{
-  width: 100px;
-  height: 100px;
-  font-size: 70px;
-  margin: 10px;
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+  margin: 1px;
   background: linear-gradient(45deg, #ffffff 0%,#ffffff 100%);
   border: none;
   color: #bd26f2
 }
 
 .textvieuw{
-  margin-top: 400px;
-  margin-bottom: 50px;
-  margin-left: 255px;
-  width: 463px;
-  height: 100px;
-  font-size: 70px;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  margin-left: 405px;
+  width: 170px;
+  height: 40px;
+  font-size: 30px;
   border: none;
+  color: #bd26f2
 }
 
 .tablet {
